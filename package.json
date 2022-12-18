@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/rupak1989/blockchain-tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupak1989/blockchain-tut/issues"
+  },
+  "homepage": "https://github.com/rupak1989/blockchain-tut#readme"
+}
